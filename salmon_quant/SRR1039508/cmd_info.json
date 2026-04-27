@@ -1,0 +1,10 @@
+{
+    "salmon_version": "0.12.0",
+    "index": "/home/lokaaaaa/rna_seq_project/genome/salmon_index",
+    "libType": "A",
+    "mates1": "/home/lokaaaaa/rna_seq_project/raw_fastq/SRR1039508_1.fastq.gz",
+    "mates2": "/home/lokaaaaa/rna_seq_project/raw_fastq/SRR1039508_2.fastq.gz",
+    "threads": "4",
+    "output": "/home/lokaaaaa/rna_seq_project/salmon_quant/SRR1039508",
+    "auxDir": "aux_info"
+}

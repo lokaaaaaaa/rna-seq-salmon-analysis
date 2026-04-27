@@ -1,0 +1,11 @@
+raw_fastq/
+genome/
+alignment/
+trimmed/
+*.gz
+*.bam
+*.fa
+*.gtf
+*.fasta
+*.bt2
+*.idx
